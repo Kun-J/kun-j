@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kun-j/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xsolkun) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xsolkun) 
 
-#### Awesome Lists
+## Awesome Lists
 
 - [Awesome-Solidity](https://github.com/Kun-J/Awesome-Solidity) - A curated list of awesome Solidity resources
 - [Awesome-Web3](https://github.com/Kun-J/Awesome-Web3) - A curated list of awesome Web3 resources
