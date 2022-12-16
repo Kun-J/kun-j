@@ -19,9 +19,8 @@
 
 #### Courses
 
-
 -[Blockchain Council](https://www.blockchain-council.org/)
-  -[Certified Smart Contract Developer](https://www.blockchain-council.org/certifications/certified-smart-contract-developer/)
+   -[Certified Smart Contract Developer](https://www.blockchain-council.org/certifications/certified-smart-contract-developer/)
 - [Udemy](https://www.udemy.com/)
   - [Ethereum Blockchain Developer Bootcamp With Solidity](https://www.udemy.com/course/blockchain-developer/)
   - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
