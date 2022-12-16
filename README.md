@@ -19,6 +19,7 @@
 
 #### Courses
 
+
 -[Blockchain Council](https://www.blockchain-council.org/)
   -[Certified Smart Contract Developer](https://www.blockchain-council.org/certifications/certified-smart-contract-developer/)
 - [Udemy](https://www.udemy.com/)
