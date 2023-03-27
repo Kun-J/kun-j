@@ -14,6 +14,7 @@
 
 #### Bootcamps & Hackathons
 
+- [Solidity Bootcamp by Metana](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/)
 - [ETHDenver Bootcamp by Encode](https://www.encode.club/ethdenver-bootcamp)
 - [ZK Bootcamp by Encode](https://www.encode.club/zk-bootcamp)
 - [Chainlink Fall 2022 Hackathon](https://chain.link/hackathon)
