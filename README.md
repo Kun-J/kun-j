@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m proficient in FullStack Blockchain Development.<br>🤝 I’m looking for help with job opportunities.<br>💬 Ask me about anything on Web3/Smart Contracts<br>⚡ Fun fact: I'm always eager to learn and help others grow with me.
+🔭 I’m proficient in FullStack Blockchain Development.<br>💬 Ask me about anything on Web3/Smart Contracts<br>⚡ Fun fact: I'm always eager to learn and help others grow with me.
 
 
 ## 🌐 Socials:
