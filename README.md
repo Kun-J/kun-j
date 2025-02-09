@@ -18,14 +18,18 @@
 - [ETHDenver Bootcamp by Encode](https://www.encode.club/ethdenver-bootcamp)
 - [Chainlink Fall 2022 Hackathon](https://chain.link/hackathon)
 
-#### Courses
+#### Courses & Certifications
 
+- [Metana.io](https://metana.io/)
+   - [Advanced Solidity Bootcamp](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/)
 - [Blockchain Council](https://www.blockchain-council.org/)
    - [Certified Smart Contract Developer](https://www.blockchain-council.org/certifications/certified-smart-contract-developer/)
 - [Udemy](https://www.udemy.com/)
+  - [Advanced Solidity: Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
+  - [Advanced Solidity: Understanding and Optimizing Gas cost](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs)
+  - [Google Cloud Professional Data Engineer](https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification)
   - [Ethereum Blockchain Developer Bootcamp With Solidity](https://www.udemy.com/course/blockchain-developer/)
   - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
-  - [Advanced Solidity: Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly/)
   - [Solana Blockchain Developer Bootcamp with Rust + JavaScript](https://www.udemy.com/course/solana-developer/)
 - [Buildspace](https://buildspace.so/)
   - [Create an NFT Game](https://buildspace.so/p/create-turn-based-nft-game) 
