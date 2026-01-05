@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m proficient in FullStack Blockchain Development.<br>💬 Ask me about anything on Web3/Smart Contracts<br>⚡ Fun fact: I'm always eager to learn and help others grow with me.
+# Hi, I'm Kunal 👋
+
+Aspiring **Quantitative Researcher** building research tooling at the intersection of systematic trading, ML, and crypto markets.
+- 🎓 MSc Financial Technology, based in London (UK).
+- 🧵 Writing: Quant, Math, and Finance deep-dives with GitHub-backed projects and live demos.
+- ⚡ Fun fact: I'm always eager to learn and help others grow with me.
 
 
 ## 🌐 Socials:
