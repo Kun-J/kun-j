@@ -5,7 +5,7 @@ Aspiring **Quantitative Researcher** building research tooling at the intersecti
 - 🧵 Writing: Quant, Math, and Finance deep-dives with GitHub-backed projects and live demos.
 - ⚡ Fun fact: I'm always eager to learn and help others grow with me.
 
-## What I work on
+## What I am working on
 - Systematic trading research: factor libraries, signal pipelines, and realistic PnL attribution.
 - Execution and transaction costs: slippage, market impact, and commission-aware portfolio optimizers.
 - Market microstructure: limit order book modeling and event-driven backtesting.
