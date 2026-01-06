@@ -10,6 +10,26 @@ Aspiring **Quantitative Researcher** building research tooling at the intersecti
 - Execution and transaction costs: slippage, market impact, and commission-aware portfolio optimizers.
 - Market microstructure: limit order book modeling and event-driven backtesting.
 - Crypto & DeFi: stress-testing stablecoins, smart-contract risk tooling, and on-chain data pipelines.
+
+  ## Highlight projects
+
+- 🚀 **Factor Research Platform**
+  - End-to-end research stack with feature engineering, factor evaluation, and robust backtests
+  - Includes a transaction-cost-aware optimizer with slippage, impact, and fee modeling [memory:5]
+
+- 📈 **Market Microstructure & Execution Simulator**
+  - Event-driven simulator comparing execution styles and measuring implementation shortfall
+  - Jupyter research notebooks + Streamlit dashboard for scenario analysis [memory:11]
+
+- 🧩 **Causal Discovery for Markets**
+  - PC-based causal discovery with regime detection and treatment effect estimation
+  - Designed to explore structural relationships in cross-sectional and time-series data [conversation_history:18]
+
+- 🔁 **LOB Transformer for Short-Horizon Prediction**
+  - Transformer encoder trained on limit order book states for multi-horizon forecasting
+  - Built for interpretability and deployment in low-latency research workflows
+ 
+    
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kun-j/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xsolkun) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@helioquant) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xsolkun) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Helio_Quant) 
 
