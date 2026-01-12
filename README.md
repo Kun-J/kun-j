@@ -15,15 +15,15 @@ Aspiring **Quantitative Researcher** building research tooling at the intersecti
 
 - 🚀 **Factor Research Platform**
   - End-to-end research stack with feature engineering, factor evaluation, and robust backtests
-  - Includes a transaction-cost-aware optimizer with slippage, impact, and fee modeling [memory:5]
+  - Includes a transaction-cost-aware optimizer with slippage, impact, and fee modeling 
 
 - 📈 **Market Microstructure & Execution Simulator**
-  - Event-driven simulator comparing execution styles and measuring implementation shortfall
-  - Jupyter research notebooks + Streamlit dashboard for scenario analysis [memory:11]
+  - This project builds an end-to-end transaction cost analysis (TCA) pipeline to measure implementation shortfall on institutional-style equity orders using market microstructure data. It ingests high-frequency       limit order book or trade-and-quote data, reconstructs order executions, and decomposes total slippage into spread, market impact, delay, and opportunity cost components relative to decision and benchmark         prices.
+
 
 - 🧩 **Causal Discovery for Markets**
   - PC-based causal discovery with regime detection and treatment effect estimation
-  - Designed to explore structural relationships in cross-sectional and time-series data [conversation_history:18]
+  - Designed to explore structural relationships in cross-sectional and time-series data 
 
 - 🔁 **LOB Transformer for Short-Horizon Prediction**
   - Transformer encoder trained on limit order book states for multi-horizon forecasting
